@@ -1,0 +1,49 @@
+Panduan RezID
+
+Panduan Ini Berisi :
+1.Rules script
+2.Cara Menggunakan Script cid
+3.Cara Fix Access Denied
+4.Panduan Membuat Akun
+
+Rules Script
+1.Script Tidak Boleh dijual belikan
+2.Gunakan Script Untuk Jual Jasa Create ID
+3.JANGAN JUAL SCRIPT NGENTOD
+4.Mau Ngedit scriptnya? auto error:)
+
+
+CARA MENGGUNAKAN SCRIPT CID.
+1.Buka Cxxdroid Dan Buka Terminal
+2.Ketik cd <Lokasi Script> (contoh jika kamu taruh scriptnya di folder "Download" Maka Kamu Ketik cd Download.)
+3. cd RezID
+4.Ketik ./RezID.
+
+Cara Fix Access Denied.
+1.Copy File RezID Bersama acc.txt
+2.Copy Ke Android/data/ru.iiec.cxxdroid/files
+3.Paste / Potong
+4.Buka Terminal
+5.cd Android/data/ru.iiec.cxxdroid/files (jika sudah dari aplikasinya tidak usah cd lgi.)
+6. Ketik ./RezID
+
+
+Panduan Membuat Akun
+1."Masukan Versi Growtopia :" Masukan Versi Growtopia, Contoh Versi : 3.81 3.82 3.83 Sampai Seterusnya, Ketik 3.82 Jika Ingin Membuat Akun Untuk Versi 3.82.
+
+2."Masukan Port :" Masukan Port, Contoh Port : 17249 17256, 17246 ,17250,17253
+
+3."Masukan GrowID :" Masukan GrowID, Contoh GrowID : Dezfs, Dkzme
+
+4."Masukan Password :" Masukan Password,
+
+5."Masukan Email Asal.(Pajangan') :"
+
+6."Masukan Nomor Awal :" Masukan Nomor Awal, Contoh : Jika Kamu Tulis 1 Maka GrowID yg dibuat akan Menjadi Dezfs1,Dezfs2 Dan Seterusnya. Jika Kamu tulis 2 maka akan Menjadi Dezfs2,Dezfs3 Dan seterusnya.
+
+7.Jika kamu mengalami "Too Many Account"
+ Gunakan Lah VPN. Jika Slalu Terputus Dari Server Gunakan lah VPN.
+
+Selamat Mencoba!!
+
+~Rezhai
